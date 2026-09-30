@@ -269,4 +269,3 @@ public:
         setGlobalstats(&ui_img_NerdQX_globalStats_png);
     }
 };
-

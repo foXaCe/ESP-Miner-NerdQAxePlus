@@ -17,4 +17,3 @@ struct PSRAMAllocator : ArduinoJson::Allocator {
         return REALLOC(ptr, new_size);
     }
 };
-

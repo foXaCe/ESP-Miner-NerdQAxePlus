@@ -11,5 +11,5 @@ datasources:
       defaultBucket: nerdqaxeplus
       tlsSkipVerify: true
     secureJsonData:
-      token: f37fh783hf8hq    
+      token: f37fh783hf8hq
     uid: f79a7dc2-e573-47cc-a345-892d52f5f3d5

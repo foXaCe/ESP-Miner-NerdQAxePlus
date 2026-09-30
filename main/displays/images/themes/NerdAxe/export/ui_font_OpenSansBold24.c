@@ -700,4 +700,3 @@ lv_font_t ui_font_OpenSansBold24 = {
 
 
 #endif /*#if UI_FONT_OPENSANSBOLD24*/
-

@@ -66,4 +66,3 @@ CONFIG_BT_ENABLED=n
 
 # disable wdt at boot
 CONFIG_ESP_TASK_WDT_INIT=n
-

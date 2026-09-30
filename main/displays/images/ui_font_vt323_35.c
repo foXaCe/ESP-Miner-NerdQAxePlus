@@ -708,4 +708,3 @@ lv_font_t ui_font_vt323_35 = {
 
 
 #endif /*#if UI_FONT_VT323_35*/
-

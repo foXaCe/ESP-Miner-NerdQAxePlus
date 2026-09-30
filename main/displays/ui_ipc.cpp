@@ -24,4 +24,3 @@ bool ui_send_hide_qr() {
     }
     return true;
 }
-

@@ -31,4 +31,3 @@ WORKDIR /home/builder/project
 
 # Switch to the unprivileged user
 USER builder
-

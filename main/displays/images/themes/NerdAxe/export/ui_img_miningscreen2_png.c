@@ -870,4 +870,3 @@ const lv_img_dsc_t ui_img_miningscreen2_png = {
     .header.cf = LV_IMG_CF_TRUE_COLOR_ALPHA,
     .data = ui_img_miningscreen2_png_data
 };
-

@@ -29,7 +29,7 @@
            [status]="username.dirty ? (username.invalid  ? 'danger' : 'success') : ''"
            required
            [minlength]="getConfigValue('forms.validation.username.minLength')"
-           [maxlength]="getConfigValue('forms.validation.username.maxLength')"         
+           [maxlength]="getConfigValue('forms.validation.username.maxLength')"
            [attr.aria-invalid]="username.invalid && username.touched ? true : null">
     <ng-container *ngIf="username.invalid && username.touched">
       <p class="error-message" *ngIf="username.errors?.['required']">
@@ -83,4 +83,3 @@
     Log In
   </button>
 </form>
-

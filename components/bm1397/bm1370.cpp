@@ -154,4 +154,3 @@ uint8_t BM1370::addrFromChipIndex(uint8_t idx) {
 uint16_t BM1370::getSmallCoreCount() {
     return BM1370_SMALL_CORE_COUNT;
 }
-
