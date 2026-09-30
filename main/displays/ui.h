@@ -116,4 +116,3 @@ public:
 
     friend class DisplayDriver;
 };
-

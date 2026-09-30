@@ -15,7 +15,7 @@ export class I18nComponent implements OnInit {
   constructor(store: Store<fromI18n.State>, translate: TranslateService) {
     this.translate = translate;
     this.currentLanguage$ = store.pipe(select(fromI18n.getCurrentLanguage));
-  
+
 
     translate.setDefaultLang('en');
     /*

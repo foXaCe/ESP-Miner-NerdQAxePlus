@@ -88,4 +88,3 @@ double test_nonce_value(const bm_job *job, const uint32_t nonce, const uint32_t 
 
     return ds;
 }
-

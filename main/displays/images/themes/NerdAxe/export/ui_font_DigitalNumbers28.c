@@ -2522,4 +2522,3 @@ lv_font_t ui_font_DigitalNumbers28 = {
 
 
 #endif /*#if UI_FONT_DIGITALNUMBERS28*/
-

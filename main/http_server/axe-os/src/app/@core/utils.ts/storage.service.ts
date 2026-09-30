@@ -10,7 +10,7 @@ export class StorageService {
     constructor() { }
     public secureStorage = new SecureStorage(localStorage, {
         hash: function hash(key): any {
-            
+
             key = CryptoJS.SHA256(key, { key: SECRET_KEY});
             return key.toString();
         },

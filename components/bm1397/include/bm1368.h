@@ -21,4 +21,3 @@ public:
     virtual void requestChipTemp();
     virtual uint16_t getSmallCoreCount();
 };
-

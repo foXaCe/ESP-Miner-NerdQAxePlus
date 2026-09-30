@@ -263,4 +263,3 @@ void APIsFetcher::task() {
         }while (m_enabled);
     }
 }
-

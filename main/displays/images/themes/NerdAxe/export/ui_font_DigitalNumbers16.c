@@ -577,4 +577,3 @@ lv_font_t ui_font_DigitalNumbers16 = {
 
 
 #endif /*#if UI_FONT_DIGITALNUMBERS16*/
-

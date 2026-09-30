@@ -864,4 +864,3 @@ void TPS546_show_voltage_settings(void)
     f_value = ulinear16_2_float(u16_value);
     ESP_LOGI(TAG, "Vout Min set to: %.2f V", f_value);
 }
-

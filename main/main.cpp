@@ -257,4 +257,3 @@ extern "C" void app_main(void)
         //monitor_all_task_watermarks();
     }
 }
-

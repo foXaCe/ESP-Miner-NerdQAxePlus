@@ -10,7 +10,7 @@ export class ArrayToStringPipe implements PipeTransform {
     if(input.length == 0){
       return;
     }
-    
+
     if(typeof input[0] === "string" ){
       return input.join(sep);
     }

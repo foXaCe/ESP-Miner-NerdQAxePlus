@@ -73,4 +73,3 @@
 #include "./NerdQX/ui_img_settingsscreen_png.c"
 #include "./NerdQX/ui_img_splashscreen2_png.c"
 #include "./NerdQX/ui_img_globalStats_png.c"
-

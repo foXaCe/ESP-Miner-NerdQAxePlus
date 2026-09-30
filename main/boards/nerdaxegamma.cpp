@@ -201,4 +201,3 @@ float NerdaxeGamma::getIout() {
 float NerdaxeGamma::getPout() {
     return getPin();
 }
-

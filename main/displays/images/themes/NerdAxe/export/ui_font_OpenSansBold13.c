@@ -1114,4 +1114,3 @@ lv_font_t ui_font_OpenSansBold13 = {
 
 
 #endif /*#if UI_FONT_OPENSANSBOLD13*/
-

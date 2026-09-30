@@ -20,7 +20,7 @@ export class NgxResetPasswordComponent extends NbResetPasswordComponent {
         @Inject(NB_AUTH_OPTIONS) protected options = {},
         protected cd: ChangeDetectorRef,
         protected router: Router) {
-    
+
         super(authService,options,cd,router);
       }
 

@@ -374,4 +374,3 @@ void System::notifyFoundNonce(double poolDiff, int asicNr) {
     m_currentHashrate1m = m_history->getCurrentHashrate1m();
     updateHashrate();
 }
-

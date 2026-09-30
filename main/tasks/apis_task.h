@@ -74,5 +74,3 @@ public:
     uint32_t getMidFee();
     uint32_t getFastestFee();
 };
-
-

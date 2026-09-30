@@ -550,4 +550,3 @@ lv_font_t ui_font_vt323_21 = {
 
 
 #endif /*#if UI_FONT_VT323_21*/
-
